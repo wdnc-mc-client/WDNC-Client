@@ -1,0 +1,16 @@
+[
+{
+  "modid": "WDNC",
+  "name": "WDNC hack client",
+  "description": "WDNC ON TOP.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["playstation451"],
+  "credits": "playstation451 made this client",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
