@@ -67,7 +67,7 @@ public class TutorialMenu extends GuiScreen {
         mc.renderEngine.bindTexture(texture);
         Gui.drawScaledCustomSizeModalRect(0, 0, 0, 0, this.width, this.height, this.width, this.height, this.width, this.height);
 
-        drawLogo.drawString(5, "TutorialClient", this.width / 10 - this.fontRenderer.getStringWidth("TutorialClient") / 2,
+        drawLogo.drawString(5, "WDNC", this.width / 10 - this.fontRenderer.getStringWidth("WDNC") / 2,
                 this.height / 20, new Color(0x08BE00).getRGB());
 
         for (GuiButton guiButton : this.buttonList) {
